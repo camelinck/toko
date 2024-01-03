@@ -12,6 +12,7 @@
 Run this following commands in your terminal
 `composer install` & `composer update`
 and wait until the process is done.
+
 <b>Step 2: build directory</b>
 Run this following commands in your terminal
 `npm run build`
