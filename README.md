@@ -14,7 +14,7 @@ Run this following commands in your terminal
 and wait until the process is done.
 
 <b>Step 2: build database</b>
-Make database 'vouchertoko'
+Make database 'vouchertoko' and
 Run this following commands in your terminal 
 `php artisan migrate`
 
