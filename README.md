@@ -15,6 +15,8 @@ and wait until the process is done.
 
 <b>Step 2: build database</b>
 Make database 'vouchertoko'
+Run this following commands in your terminal 
+`php artisan migrate`
 
 <b>Step 3: run the project in localhost</b>
 Run this following commands in your terminal to start local server
