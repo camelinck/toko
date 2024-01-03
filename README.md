@@ -13,9 +13,8 @@ Run this following commands in your terminal
 `composer install` & `composer update`
 and wait until the process is done.
 
-<b>Step 2: build directory</b>
-Run this following commands in your terminal
-`npm run build`
+<b>Step 2: build database</b>
+Make database 'vouchertoko'
 
 <b>Step 3: run the project in localhost</b>
 Run this following commands in your terminal to start local server
