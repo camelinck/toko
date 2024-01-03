@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Installation 🔧
+<b>Step 1: install the composer</b>
+Run this following commands in your terminal
+`composer install` & `composer update`
+and wait until the process is done.
+<b>Step 2: build directory</b>
+Run this following commands in your terminal
+`npm run build`
+
+<b>Step 3: run the project in localhost</b>
+Run this following commands in your terminal to start local server
+`php artisan serve`
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
